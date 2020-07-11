@@ -83,9 +83,12 @@ with open(csvpath, newline='') as csvfile:
         print(f"Winner: {candidate_winner}", file=text_file)
 
         csvfile.close()
+<<<<<<< HEAD
 
         # People I read and took ideas and pieces of code from for both PyPoll and PyBank:
 # bigbluey, AllenRayC, blueskiesatx, 
 # # https://stackoverflow.com/questions/42847440/in-python-writing-to-a-text-file-not-working In Python, writing to a text file not working
 # Kahn Acaddemy \ Philip Guo, Python Tutor and Writer
 # YK Sugishita \ CS Dojo
+=======
+>>>>>>> 2f1e221bbb68fca6a456a9586d942cd38f41e921
